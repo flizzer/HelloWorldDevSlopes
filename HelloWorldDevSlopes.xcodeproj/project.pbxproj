@@ -302,6 +302,7 @@
 				4F9CF08D1E50D85200CE7820 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
